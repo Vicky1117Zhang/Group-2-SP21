@@ -1,4 +1,4 @@
-# Group TEAM_NUMBER
+# Group 2
 Group Name: Crypto Gram
 
 [MVP Link](http://cs196.cs.illinois.edu)
