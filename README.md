@@ -5,6 +5,6 @@ Group Name: Crypto Gram
 
 Team Members: STUDENTS_NETIDS
 
-Project Manager: dm32
+Project Manager: dm32 jz94
 
 Project Description: A fullstack application that generates a list of trending cryptocurrencies.
