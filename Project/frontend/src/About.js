@@ -53,7 +53,7 @@ function About() {
     <div className='about'>
       <h1 className="head1">About Us</h1>
       <h3 className="head2">Group Name</h3>
-      <p className="onetext">Crypto Gram</p>
+        <p className="name">Crypto Gram</p>
       <h3 className="head2">Project Description</h3>
         <h4 className="head3">Why we decided to make it?</h4>
         <p className="onetext">As the development of society, the crypto currencies are becoming more and more popular. 
